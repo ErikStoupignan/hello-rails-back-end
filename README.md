@@ -56,10 +56,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello-rails-react] <a name="about-project"></a>
+# 📖 [Hello-rails-react BACK-END] <a name="about-project"></a>
 
 **[First Set-up with Ruby on Rails]** is a test to put our knowledge into practice by applying and installing the rails framework with react-redux.
 
+<a href="https://github.com/ErikStoupignan/hello-react-front-end">Click here to see the FRONT-END project</a>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -130,7 +131,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/ErikStoupignan/hello-rails-react.git
+  git clone https://github.com/ErikStoupignan/hello-rails-back-end.git
   cd setup-ror-project
 ```
 
@@ -149,7 +150,7 @@ To run the project, execute the following command:
 
 
 ```sh
-  ./bin/dev
+  ./bin/dev or rails s
 ```
 
 <!-- ### Run tests
