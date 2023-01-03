@@ -4,7 +4,7 @@ Rails.application.routes.draw do
     get 'message', to: 'greetings#index'
   end
 
-  root 'root#index'
+  root 'api/greetings#index'
   get 'api/index'
   get 'root/index'
 end
